@@ -2,14 +2,40 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Course materials, schedules, and resources for classes taught.
+description: 
 nav: true
-nav_order: 6
-calendar: true
+nav_order: 5
 ---
 
-This page displays a collection of courses with detailed schedules, materials, and resources. You can organize your courses by years, terms, or topics.
+## Teaching Experience
 
-{% include calendar.liquid calendar_id='test@gmail.com' timezone='Asia/Shanghai' %}
+### Teaching Assistant
+**University of Pittsburgh**
 
-{% include courses.liquid %}
+**[Causal Moderation and Mediation Analysis]** | Fall 2025 
+Instructor: Prof. Xu Qin
+- Provided one-on-one academic support to students
+- Assisted students with course projects and coding implementations
+- Supported students in applying research methods to their own research projects
+
+---
+
+## Research Mentoring
+
+Since 2015, I have mentored 10+ graduate students in conducting economics and education research in rural China, including:
+
+- Designing and implementing field surveys and randomized controlled trials
+- Conducting data analysis using causal inference methods
+- Writing and publishing academic papers
+- Preparing project reports for research grants and collaborative organizations
+
+---
+
+## Teaching Interests
+
+I am interested in teaching courses related to:
+- Economics of Education
+- Education Policy Evaluation and Analysis
+- Quantitative Methods in Educational Studies
+- Causal Inference and Mediation Analysis
+- Seminar on Child Development and Family Engagement
