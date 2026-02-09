@@ -12,6 +12,9 @@ profile:
     <p>Department of Educational Foundations, Organizations, and Policy</p>
     <p>University of Pittsburgh</p>
     <p>Pittsburgh, PA, 15260</p>
+    <p></p>
+    <p><i class="fas fa-envelope"></i>TOR14@pitt.edu; rutongceee@gmail.com</p>
+    <p><a href="/assets/pdf/CV_TongRu.pdf" class="btn btn-sm btn-outline-primary">📄 CV</a></p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
