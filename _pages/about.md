@@ -48,7 +48,7 @@ Doctoral Comprehensive Exam Paper: Understanding Human Capital Development in Ru
 
 Promoting Human Capital Development of Children in Rural China: Three Empirical Studies within the Education Production Function Framework
 
-&nbsp;&nbsp;&nbsp;&nbsp;Study 1: Creativity and Non-cognitive Development of Children in Rural China: A Machine Learning and Mixed-Method Study  
+&nbsp;&nbsp;&nbsp;&nbsp;Study 1: Creativity-related Non-cognitive Development of Children in Rural China: A Machine Learning and Mixed-Method Study  
 &nbsp;&nbsp;&nbsp;&nbsp;*In preparation*
 
 &nbsp;&nbsp;&nbsp;&nbsp;Study 2: Does Ethnicity Matching Matter? Evidence from Tibetan Teachers and Tibetan Students in Rural China  
