@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: 
+description: My teaching and mentoring experience in quantitative methods, causal inference, and education policy analysis.
 nav: true
 nav_order: 5
 ---
