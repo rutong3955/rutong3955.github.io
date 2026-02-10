@@ -1,14 +1,13 @@
 ---
 layout: page
 permalink: /teaching/
+title: teaching
 description: 
 nav: true
 nav_order: 5
 ---
 
-## Teaching Experience
-
-**Teaching Assistant**
+## Teaching Assistant
 
 **Causal Moderation and Mediation Analysis** | Fall 2025  
 *Instructor: Prof. Xu Qin, University of Pittsburgh*
