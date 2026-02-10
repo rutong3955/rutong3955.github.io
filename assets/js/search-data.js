@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-teaching",
           title: "teaching",
-          description: "",
+          description: "My teaching and mentoring experience in quantitative methods, causal inference, and education policy analysis.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
