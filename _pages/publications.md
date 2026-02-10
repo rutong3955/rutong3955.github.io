@@ -8,7 +8,7 @@ nav_order: 2
 
 <!-- _pages/publications.md -->
 
-<div class="d-flex justify-content-end mt-2 mb-1">
+<div class="d-flex justify-content-start mt-2 mb-1">
   <a href="https://scholar.google.com/citations?user=1rzYkxIAAAAJ&hl=en"
      target="_blank"
      class="btn btn-outline-primary">
