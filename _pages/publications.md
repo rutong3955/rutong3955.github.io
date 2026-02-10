@@ -17,3 +17,5 @@ nav_order: 2
 {% bibliography %}
 
 </div>
+
+For more information, visit my [Google Scholar profile](https://scholar.google.com/citations?user=1rzYkxIAAAAJ&hl=en).
