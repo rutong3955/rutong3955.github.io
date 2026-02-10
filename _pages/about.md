@@ -43,16 +43,16 @@ I specialize in experimental and quasi-experimental methods to evaluate educatio
 
 ### Dissertation Research
 
-Promoting Human Capital Development of Children in Rural China: Three Empirical Studies within the Education Production Function Framework
-
 Doctoral Comprehensive Exam Paper: Understanding Human Capital Development in Rural China: Comparative Insights from the Education Production Function in Developing Countries  
 *Under review, Journal of East China Normal University (Educational Sciences)*
 
-Study 1: Creativity-related Non-cognitive Development of Children in Rural China: A Machine Learning and Mixed-Method Study  
-*In preparation*
+Promoting Human Capital Development of Children in Rural China: Three Empirical Studies within the Education Production Function Framework
 
-Study 2: Does Ethnicity Matching Matter? Evidence from Tibetan Teachers and Tibetan Students in Rural China  
-*In preparation*
+&nbsp;&nbsp;&nbsp;&nbsp;Study 1: Creativity and Non-cognitive Development of Children in Rural China: A Machine Learning and Mixed-Method Study  
+&nbsp;&nbsp;&nbsp;&nbsp;*In preparation*
 
-Study 3: Causal Mediation Mechanisms Underlying Early Childhood Development Interventions in Rural China  
-*Under review (Minor revision), Child Development*
+&nbsp;&nbsp;&nbsp;&nbsp;Study 2: Does Ethnicity Matching Matter? Evidence from Tibetan Teachers and Tibetan Students in Rural China  
+&nbsp;&nbsp;&nbsp;&nbsp;*In preparation*
+
+&nbsp;&nbsp;&nbsp;&nbsp;Study 3: Causal Mediation Mechanisms Underlying Early Childhood Development Interventions in Rural China  
+&nbsp;&nbsp;&nbsp;&nbsp;*Under review (Minor revision), Child Development*
