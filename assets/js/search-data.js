@@ -16,9 +16,9 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-projects",
-          title: "projects",
-          description: "A growing collection of your cool projects.",
+        },{id: "nav-research-portfolio",
+          title: "research portfolio",
+          description: "My research experience spans experimental evaluations, policy analysis, and field implementation across education and health sectors in developing countries, with a focus on China.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
