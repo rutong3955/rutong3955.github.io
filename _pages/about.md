@@ -17,12 +17,8 @@ profile:
     <p><a href="/assets/pdf/CV_TongRu.pdf" class="btn btn-sm btn-primary" target="_blank">Download CV</a></p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
 
-social_links:
-  google_scholar: 1rzYkxIAAAAJ&hl
-  linkedin: tongru
-  
 announcements:
   enabled: false # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
