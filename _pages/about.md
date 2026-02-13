@@ -55,4 +55,4 @@ Promoting Human Capital Development of Children in Rural China: Three Empirical 
 &nbsp;&nbsp;&nbsp;&nbsp;*In preparation*
 
 &nbsp;&nbsp;&nbsp;&nbsp;Study 3: Causal Mediation Mechanisms Underlying Early Childhood Development Interventions in Rural China  
-&nbsp;&nbsp;&nbsp;&nbsp;*Under review (Minor revision), Child Development*
+&nbsp;&nbsp;&nbsp;&nbsp;*Revise & Resubmit (Minor revision), Child Development*
