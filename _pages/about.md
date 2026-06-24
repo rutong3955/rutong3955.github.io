@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD Candidate in Administrative and Policy Studies (Economics Track), University of Pittsburgh.
+subtitle: PhD in Administrative and Policy Studies (Economics Track), University of Pittsburgh.
 
 profile:
   align: right
@@ -30,7 +30,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a PhD Candidate in Administrative and Policy Studies (Economics Track) at the University of Pittsburgh, expected to graduate in May 2026. My research examines educational inequalities in rural China and other developing countries through the lens of human capital development.
+I am a PhD in Administrative and Policy Studies (Economics Track) at the University of Pittsburgh (recently graduated in May 2026). My research examines educational inequalities in rural China and other developing countries through the lens of human capital development.
 
 I specialize in experimental and quasi-experimental methods to evaluate education interventions at the student, family, and school levels. My work combines rigorous causal inference with deep contextual understanding of education systems in low- and middle-income countries.
 
